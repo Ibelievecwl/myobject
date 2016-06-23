@@ -1,0 +1,2 @@
+# myobject
+哈哈
